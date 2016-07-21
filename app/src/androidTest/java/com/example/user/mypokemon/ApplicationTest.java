@@ -1,4 +1,4 @@
-package com.example.user.cyanapplication;
+package com.example.user.mypokemon;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
